@@ -3,8 +3,8 @@ import { chromium, expect, test } from "@playwright/test"
 test("Login nuedigital", async ({page}) =>{
 
     // Login Daten
-    const username = 'christian.plenzdorf.business+nuedigital@gmail.com';
-    const password = 'n!pxa8W-FYwVr8v';
+    const username = '';
+    const password = '';
 
     // //erzeugt eine Instanz
     // const browser = await chromium.launch({
